@@ -36,6 +36,7 @@ filename
 GCM
 GitBash
 GitHub
+Gradle
 github.com
 homebrew
 hostname
@@ -162,6 +163,7 @@ serializable
 signup
 subclassing
 syntaxes
+toc
 utils
 versioning
 whitelist
@@ -194,3 +196,6 @@ js-cache
 kyperoslo
 lscache
 pamelafox
+
+# brand
+asciiflow
