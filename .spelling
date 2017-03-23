@@ -163,7 +163,6 @@ serializable
 signup
 subclassing
 syntaxes
-toc
 utils
 versioning
 whitelist
@@ -191,7 +190,6 @@ v1.5
 
 # nouns (e.g. GitHub Repo)
 aschuch
-asciiflow
 AwesomeCache
 dirkbonhomme
 js-cache
