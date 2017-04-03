@@ -237,6 +237,13 @@ const guideListConfig = {
           baseUrl: '/guides/advanced/auth-provider/',
           languages: ['python'],
         },
+        {
+          title: 'Error Handling in the SDKs',
+          description: 'Handle error with error codes in SDK when operations fail',
+          // no trailing slash if language not applicable
+          baseUrl: '/guides/advanced/sdk-error-handling/',
+          languages: ['ios', 'android', 'js'],
+        },
       ],
     },
   ],
